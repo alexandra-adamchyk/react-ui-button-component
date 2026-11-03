@@ -1,0 +1,36 @@
+.small {
+  font-size: 14px;
+  height: 30px;
+  width: 50px;
+}
+
+.medium {
+  font-size: 20px;
+  height: 40px;
+  width: 60px;
+}
+
+.large {
+  font-size: 30px;
+  height: 50px;
+  width: 70px;
+}
+
+.primary {
+  background-color: blue;
+  color: white;
+}
+
+.success {
+  background-color: green;
+  color: white;
+}
+
+.danger {
+  background-color: red;
+  color: white;
+}
+
+.round {
+  border-radius: 6px;
+}
